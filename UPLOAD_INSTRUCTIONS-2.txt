@@ -1,0 +1,31 @@
+# Upload Instructions for Reference Library
+
+## Files to Upload
+
+From /home/claude/reference-library-prep/:
+
+1. README.md → (root of repo)
+2. GASD.pdf → (root of repo for now, can organize into folders later)
+
+## Steps
+
+1. Navigate to https://github.com/Neil-Clive-Tuckwell/Reference-library-
+2. Click "Add file" → "Upload files"
+3. Drag both files (README.md and GASD.pdf)
+4. Commit with message: "Initial commit: GASD paper and README"
+
+## After Upload
+
+The raw URL for GASD.pdf will be:
+https://raw.githubusercontent.com/Neil-Clive-Tuckwell/Reference-library-/main/GASD.pdf
+
+Paste that URL back to Claude to test fetch capability.
+
+## Future Structure (optional)
+
+Once validated, can organize as:
+- /frameworks/ (GASD, TRO, Circuit-Completion, etc.)
+- /domains/ (biology, materials, fluids, cosmology)
+- /foundation/ (core methodological papers)
+
+But start minimal - test fetch first, then optimize structure.
